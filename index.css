@@ -1,0 +1,33 @@
+html {
+  text-align: center;
+  background: #1f336d;
+}
+
+h1 {
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 300%;
+  color: #6a8bed;
+}
+
+button {
+  background: #596fb2;
+  outline: none;
+  border: none;
+  font-size: 150%;
+  padding: 30px;
+  overflow: none;
+  border-radius: 80%;
+  color: white;
+  transition: 0.5s background;
+}
+
+button:active {
+  transition: 0.5s background;
+  background: #3e4f82;
+}
+
+button:before {
+  font-family: FontAwesome;
+  content: "\f019       "
+}
