@@ -17,7 +17,7 @@ button {
   font-size: 150%;
   padding: 30px;
   overflow: none;
-  border-radius: 80%;
+  border-radius: 60%;
   color: white;
   transition: 0.5s background;
 }
